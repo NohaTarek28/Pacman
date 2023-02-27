@@ -1,0 +1,51 @@
+﻿  gameWorld.cpp
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(578,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(579,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(607,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(608,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(637,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(638,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(663,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(664,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  graph.cpp
+C:\Users\HP\source\repos\Pacman\Pacman\graph.cpp(174,30): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating Code...
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(555): warning C4715: 'gameWorld::nodenumber': not all control paths return a value
+C:\Users\HP\source\repos\Pacman\Pacman\gameWorld.cpp(964): warning C4715: 'gameWorld::moveGhost': not all control paths return a value
+  Pacman.vcxproj -> C:\Users\HP\source\repos\Pacman\x64\Debug\Pacman.exe
